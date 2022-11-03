@@ -1,0 +1,1 @@
+# OCR-Text-recognition-with-Python-and-API-ocr.space--main
